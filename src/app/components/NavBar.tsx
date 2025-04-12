@@ -7,7 +7,7 @@ const Navbar = () => {
         href="/"
         className="text-4xl font-normal text-yellow-500 hover:text-yellow-500/85 ml-8"
       >
-        Pure Apex Logo
+        Pure Apex
       </Link>
 
       <div className="hidden justify-center lg:flex">
